@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "392465355528",
+    "firebase_url": "https://alejandrofinal-53571.firebaseio.com",
+    "project_id": "alejandrofinal-53571",
+    "storage_bucket": "alejandrofinal-53571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392465355528:android:958353a0716b5897",
+        "android_client_info": {
+          "package_name": "com.example.user.alejandrofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392465355528-1bgbrn3m44s30p7r9aan0ug0dr6aacti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Mwn90c3jvcHyF6lvRVYCjkEd4VSA-tQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
